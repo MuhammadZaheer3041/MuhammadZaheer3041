@@ -8,7 +8,8 @@ I am a "Mathematics Graduate" and an "Aspiring Data Scientist" based in Lahore, 
 - *Languages:* Python, MATLAB
 - *Data Analysis & Cleaning:* Pandas, NumPy
 - *Data Visualization:* Matplotlib, Power BI
-- *Core Strengths:* Statistical Analysis, Logical Problem Solving, Predictive Modeling 
+- *Core Strengths:* Statistical Analysis, Logical Problem Solving, Predictive Modeling
+- *Lecturing Computer Science & Mathematics to grades 9-12 at a Private College.
 
 ---
 
@@ -25,6 +26,7 @@ I am a "Mathematics Graduate" and an "Aspiring Data Scientist" based in Lahore, 
 - 🎯 Building real-world data analytics portfolios.
 - 💼 Open for Data Science internships and freelance collaborations.
 - 🎥 Sharing knowledge and lecturing on Mathematics & MATLAB via YouTube.
+- 👨‍🏫 Lecturing Computer Science & Mathematics to grades 9-12 at a Private College.
 
 ---
 
